@@ -2,5 +2,8 @@
 
 payload:
   - DOMAIN-KEYWORD,m-team
+  - DOMAIN-KEYWORD,minimax
   - DOMAIN-SUFFIX,micuapi.ai
   - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,kuaileshifu.com
+
