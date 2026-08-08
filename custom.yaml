@@ -2,6 +2,4 @@
 
 payload:
   - DOMAIN-KEYWORD,m-team
-  - DOMAIN-KEYWORD,quickconnect
-  - DOMAIN-KEYWORD,synology
-  - DOMAIN-SUFFIX,00333118.com
+  - DOMAIN-SUFFIX,micuapi.ai
