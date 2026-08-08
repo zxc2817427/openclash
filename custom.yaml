@@ -1,0 +1,7 @@
+# 自定义的域名规则
+
+payload:
+  - DOMAIN-KEYWORD,m-team
+  - DOMAIN-KEYWORD,quickconnect
+  - DOMAIN-KEYWORD,synology
+  - DOMAIN-SUFFIX,00333118.com
