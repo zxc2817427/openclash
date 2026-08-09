@@ -1,6 +1,7 @@
-# 自定义的域名规则
+# 自定义的域名规则 
 
 payload:
+  - DOMAIN-KEYWORD,githubusercontent
   - DOMAIN-KEYWORD,m-team
   - DOMAIN-KEYWORD,minimax
   - DOMAIN-SUFFIX,micuapi.ai
